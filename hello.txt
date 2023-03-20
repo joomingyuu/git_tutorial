@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 1 line
 2 line
+>>>>>>> 1341fe0 (First commit from new_branch)
