@@ -1,3 +1,5 @@
 Hello world!
 My github address is Yeah~
+<<<<<<< HEAD
 my_branch says "Yes world!"
+>>>>>>> new_branchh
